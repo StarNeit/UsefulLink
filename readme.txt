@@ -16,3 +16,14 @@ https://www.entrepreneur.com/article/283832
 
 https://www.checkbox.com/
 
+http://www.javascripting.com/
+
+http://sahatyalkabov.com/jsrecipes/#!/
+
+http://naltatis.github.io/jade-syntax-docs/#attributes
+
+http://html2jade.aaron-powell.com/
+
+http://www.javascriptoo.com/
+
+http://realfavicongenerator.net/

@@ -29,3 +29,5 @@ http://www.javascriptoo.com/
 http://realfavicongenerator.net/
 
 tutorialzine.com
+
+toptal.com

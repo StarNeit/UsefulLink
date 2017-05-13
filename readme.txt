@@ -43,3 +43,5 @@ http://prnt.sc/
 http://stackoverflow.com/questions/17488207/convert-a-string-to-json-object-php
 
 http://hotexamples.com/examples/-/mPDF/SetSourceFile/php-mpdf-setsourcefile-method-examples.html
+
+http://stackoverflow.com/questions/29982759/change-layout-file-within-a-view-in-yii2

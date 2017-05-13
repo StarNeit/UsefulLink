@@ -39,3 +39,5 @@ http://stackoverflow.com/questions/1990512/add-comma-to-numbers-every-three-digi
 fontawesome.io
 
 http://prnt.sc/
+
+http://stackoverflow.com/questions/17488207/convert-a-string-to-json-object-php

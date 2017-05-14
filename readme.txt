@@ -47,3 +47,5 @@ http://hotexamples.com/examples/-/mPDF/SetSourceFile/php-mpdf-setsourcefile-meth
 http://stackoverflow.com/questions/29982759/change-layout-file-within-a-view-in-yii2
 
 http://stackoverflow.com/questions/23893539/yii2-redirect-in-controller-action-does-not-work
+
+https://www.npmjs.com/package/helmet

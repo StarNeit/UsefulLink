@@ -48,6 +48,10 @@ http://stackoverflow.com/questions/29982759/change-layout-file-within-a-view-in-
 
 http://stackoverflow.com/questions/23893539/yii2-redirect-in-controller-action-does-not-work
 
+https://www.abeautifulsite.net/working-with-html5-data-attributes
+
+http://html5doctor.com/html5-custom-data-attributes/
+
 https://www.npmjs.com/package/helmet
 
 Helmet sets HTTP headers:

@@ -59,4 +59,6 @@ Helmet sets HTTP headers:
 
 bitbucket.io
 
+github.com
+
 http://stackoverflow.com/questions/31861822/google-maps-how-to-show-city-or-an-area-outline

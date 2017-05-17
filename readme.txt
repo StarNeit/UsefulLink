@@ -62,3 +62,38 @@ bitbucket.io
 github.com
 
 http://stackoverflow.com/questions/31861822/google-maps-how-to-show-city-or-an-area-outline
+
+[https://www.npmjs.com/package/helmet]  Already installed but needs adjusting CHANGE WHATEVER NEEDED FOR FULL COMPLIANCE!
+Helmet sets HTTP headers:
+[https://github.com/aredo/express-enforces-ssl]
+[https://github.com/ericmdantas/express-content-length-validator] • 
+[https://www.npmjs.com/package/hpp]
+[https://www.npmjs.com/package/cors]
+[https://www.npmjs.com/package/cookies]
+[https://www.npmjs.com/package/keygrip]
+[https://support.cloudflare.com/hc/en-us/articles/200504045-Using-CloudFlare-with-your-API]
+[http://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html]
+
+*UBUNTU:*
+ClamAV will be installed on the ubuntu box and following diligently. 
+[http://www.clamav.net/] Need to install
+
+*LITESPEED:*
+
+Migration of dual instance (split test) will be complete. If issues resolved on NGNIX to use Liquid Web as a staging Server.
+Confirmation Needs:
+Confirmation of 3.02 RC2 functionality in place.
+
+*Front End Developer Package Requirements:*
+[https://github.com/cure53/DOMPurify]
+[https://www.npmjs.com/package/xss]
+[https://www.npmjs.com/package/cssfilter]
+[https://github.com/purifycss/purifycss]
+[https://www.npmjs.com/package/cookies]
+[https://www.npmjs.com/package/keygrip]
+Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a 
+REVIEW:
+[https://www.owasp.org/index.php/XSS\_(Cross\_Site\_Scripting)\_Prevention\_Cheat\_Sheet]
+[ []http://www.domxssscanner.com/]
+CLOSE SINKS 
+(img) > —[https://www.owasp.org/index.php/XSS\_(Cross\_Site\_Scripting)\_Prevention\_Cheat\_Sheet#JSON\_entity\_encoding]

@@ -97,3 +97,7 @@ REVIEW:
 [ []http://www.domxssscanner.com/]
 CLOSE SINKS 
 (img) > —[https://www.owasp.org/index.php/XSS\_(Cross\_Site\_Scripting)\_Prevention\_Cheat\_Sheet#JSON\_entity\_encoding]
+
+
+https://mapzen.com/data/borders/
+https://catalog.data.gov/dataset?tags=cities

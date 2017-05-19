@@ -113,3 +113,5 @@ http://stackoverflow.com/questions/19859486/un-commit-last-un-pushed-git-commit-
 
 
 http://hubstaff.com/
+
+https://github.com/mervick/emojionearea

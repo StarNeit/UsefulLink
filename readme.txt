@@ -110,3 +110,6 @@ http://stackoverflow.com/questions/1611215/remove-a-git-commit-which-has-not-pus
 http://stackoverflow.com/questions/927358/how-to-undo-last-commits-in-git
 http://stackoverflow.com/questions/2845731/how-to-uncommit-my-last-commit-in-git
 http://stackoverflow.com/questions/19859486/un-commit-last-un-pushed-git-commit-without-losing-the-changes
+
+
+http://hubstaff.com/

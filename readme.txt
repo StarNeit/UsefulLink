@@ -116,3 +116,5 @@ http://hubstaff.com/
 
 https://github.com/mervick/emojionearea
 https://github.com/OneSignal/emoji-picker
+
+http://stackoverflow.com/questions/34817027/fullcalendar-find-just-created-event

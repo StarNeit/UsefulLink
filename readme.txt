@@ -118,3 +118,8 @@ https://github.com/mervick/emojionearea
 https://github.com/OneSignal/emoji-picker
 
 http://stackoverflow.com/questions/34817027/fullcalendar-find-just-created-event
+
+http://stackoverflow.com/questions/25444930/fullcalendar-how-to-load-all-events-on-calendar-using-ajax
+http://stackoverflow.com/questions/7046519/how-to-access-collected-jquery-fullcalendar-event-data
+http://stackoverflow.com/questions/27040984/filtering-events-with-clientevents-method-on-fullcalendar
+https://fullcalendar.io/docs/event_data/Event_Object/

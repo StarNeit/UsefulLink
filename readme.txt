@@ -128,3 +128,5 @@ http://stackoverflow.com/questions/31672033/how-do-i-delete-rows-in-yii2
 https://www.w3schools.com/Jsref/jsref_number.asp
 http://stackoverflow.com/questions/3790935/can-i-hide-the-html5-number-input-s-spin-box
 http://stackoverflow.com/questions/33749896/hide-html5-input-type-number-arrow-with-a-css-class
+
+https://www.tutorialspoint.com/

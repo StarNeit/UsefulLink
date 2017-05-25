@@ -136,3 +136,5 @@ https://stackoverflow.com/questions/16056591/font-scaling-based-on-width-of-cont
 https://stackoverflow.com/questions/17966307/resize-text-in-a-fixed-size-div-to-fit
 http://jsfiddle.net/gEjTz/
 https://stackoverflow.com/questions/3794919/replace-all-spaces-in-a-string-with
+
+w3schools.com

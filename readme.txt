@@ -130,3 +130,9 @@ http://stackoverflow.com/questions/3790935/can-i-hide-the-html5-number-input-s-s
 http://stackoverflow.com/questions/33749896/hide-html5-input-type-number-arrow-with-a-css-class
 
 https://www.tutorialspoint.com/
+
+https://stackoverflow.com/questions/15762768/javascript-math-round-to-two-decimal-places
+https://stackoverflow.com/questions/16056591/font-scaling-based-on-width-of-container
+https://stackoverflow.com/questions/17966307/resize-text-in-a-fixed-size-div-to-fit
+http://jsfiddle.net/gEjTz/
+https://stackoverflow.com/questions/3794919/replace-all-spaces-in-a-string-with

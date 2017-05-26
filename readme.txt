@@ -140,3 +140,6 @@ https://stackoverflow.com/questions/3794919/replace-all-spaces-in-a-string-with
 w3schools.com
 stackoverflow.com
 https://www.jsdelivr.com/
+
+https://www.w3schools.com/jsref/jsref_fromcharcode.asp
+https://stackoverflow.com/questions/5245368/how-can-i-convert-ascii-code-to-character-in-javascript

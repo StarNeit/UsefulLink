@@ -143,3 +143,5 @@ https://www.jsdelivr.com/
 
 https://www.w3schools.com/jsref/jsref_fromcharcode.asp
 https://stackoverflow.com/questions/5245368/how-can-i-convert-ascii-code-to-character-in-javascript
+
+https://stackoverflow.com/questions/3536670/mysql-selecting-rows-where-a-column-is-null

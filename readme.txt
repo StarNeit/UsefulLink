@@ -151,3 +151,5 @@ https://stackoverflow.com/questions/8207655/how-to-get-time-of-specific-timezone
 https://momentjs.com
 
 freelancer.com
+
+http://jsfiddle.net/HyLfx/

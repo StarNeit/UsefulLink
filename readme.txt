@@ -153,3 +153,4 @@ https://momentjs.com
 freelancer.com
 
 http://jsfiddle.net/HyLfx/
+https://github.com/jlmakes/scrollreveal

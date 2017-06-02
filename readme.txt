@@ -154,3 +154,5 @@ freelancer.com
 
 http://jsfiddle.net/HyLfx/
 https://github.com/jlmakes/scrollreveal
+
+https://slack.com/

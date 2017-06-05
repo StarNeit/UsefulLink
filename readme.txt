@@ -161,3 +161,10 @@ https://github.com/videojs/video.js
 
 - React.js example
 https://paom.com/ 
+
+https://stackoverflow.com/questions/9575790/how-to-get-time-in-milliseconds-since-the-unix-epoch-in-javascript
+https://www.electrictoolbox.com/unix-timestamp-javascript/
+http://www.jstips.co/en/javascript/extract-unix-timestamp-easily/
+
+https://stackoverflow.com/questions/4228356/how-to-perform-integer-division-and-get-the-remainder-in-javascript
+https://stackoverflow.com/questions/18928117/how-to-do-integer-division-in-javascript-getting-division-answer-in-int-not-flo

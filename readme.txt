@@ -168,3 +168,5 @@ http://www.jstips.co/en/javascript/extract-unix-timestamp-easily/
 
 https://stackoverflow.com/questions/4228356/how-to-perform-integer-division-and-get-the-remainder-in-javascript
 https://stackoverflow.com/questions/18928117/how-to-do-integer-division-in-javascript-getting-division-answer-in-int-not-flo
+
+https://github.com/barryvdh/laravel-dompdf

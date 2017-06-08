@@ -167,3 +167,8 @@ https://stackoverflow.com/questions/4228356/how-to-perform-integer-division-and-
 https://stackoverflow.com/questions/18928117/how-to-do-integer-division-in-javascript-getting-division-answer-in-int-not-flo
 
 https://github.com/barryvdh/laravel-dompdf
+
+https://fineuploader.com/demos.html
+https://formstone.it/components/upload/#demo
+
+https://www.w3schools.com/jquery/traversing_prev.asp

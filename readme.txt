@@ -172,3 +172,6 @@ https://fineuploader.com/demos.html
 https://formstone.it/components/upload/#demo
 
 https://www.w3schools.com/jquery/traversing_prev.asp
+
+https://laravel.com/docs/5.4/csrf
+http://php.net/manual/en/function.chr.php

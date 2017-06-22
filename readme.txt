@@ -176,5 +176,6 @@ https://www.w3schools.com/jquery/traversing_prev.asp
 https://laravel.com/docs/5.4/csrf
 http://php.net/manual/en/function.chr.php
 
+http://roundsliderui.com
 https://stackoverflow.com/questions/25247675/how-to-get-user-role-in-yii2
 http://php.net/manual/en/function.array-shift.php

@@ -181,3 +181,4 @@ https://stackoverflow.com/questions/25247675/how-to-get-user-role-in-yii2
 http://php.net/manual/en/function.array-shift.php
 
 expressvpn.com
+purevpn.com

@@ -187,3 +187,5 @@ https://stackoverflow.com/questions/3254985/back-and-forward-buttons-in-an-ifram
 
 https://www.w3schools.com/SQL/sql_like.asp
 http://php.net/manual/en/function.mysql-query.php
+
+http://www.yiiframework.com/wiki/653/displaying-sorting-and-filtering-model-relations-on-a-gridview/

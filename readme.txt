@@ -189,3 +189,5 @@ https://www.w3schools.com/SQL/sql_like.asp
 http://php.net/manual/en/function.mysql-query.php
 
 http://www.yiiframework.com/wiki/653/displaying-sorting-and-filtering-model-relations-on-a-gridview/
+
+https://stackoverflow.com/questions/26704359/yii2-form-and-related-gridview-on-the-same-page

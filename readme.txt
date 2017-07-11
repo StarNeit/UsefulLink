@@ -196,3 +196,5 @@ http://www.yiiframework.com/wiki/772/pjax-on-activeform-and-gridview-yii2/
 https://css-tricks.com/snippets/css/css-triangle/
 
 https://codyhouse.co/gem/auto-hiding-navigation/
+
+https://stackoverflow.com/questions/36350948/removing-black-dots-from-li-and-ul

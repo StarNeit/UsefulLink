@@ -194,3 +194,5 @@ https://stackoverflow.com/questions/26704359/yii2-form-and-related-gridview-on-t
 
 http://www.yiiframework.com/wiki/772/pjax-on-activeform-and-gridview-yii2/
 https://css-tricks.com/snippets/css/css-triangle/
+
+https://codyhouse.co/gem/auto-hiding-navigation/

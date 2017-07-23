@@ -200,3 +200,5 @@ https://codyhouse.co/gem/auto-hiding-navigation/
 https://stackoverflow.com/questions/36350948/removing-black-dots-from-li-and-ul
 
 https://stackoverflow.com/questions/14528344/how-to-access-full-source-of-old-commit-in-bitbucket
+
+http://bradsknutson.com/blog/css-sliding-underline/

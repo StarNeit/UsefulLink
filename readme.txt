@@ -212,3 +212,6 @@ https://codepen.io/alexcarpenter/pen/LveDx
 https://stackoverflow.com/questions/11064237/prevent-iphone-from-zooming-form
 
 http://icoconvert.com/
+
+https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery
+https://www.w3schools.com/jquery/eff_toggle.asp

@@ -215,3 +215,5 @@ http://icoconvert.com/
 
 https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery
 https://www.w3schools.com/jquery/eff_toggle.asp
+
+http://csscheckbox.com

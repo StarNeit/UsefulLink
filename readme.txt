@@ -217,3 +217,16 @@ https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidde
 https://www.w3schools.com/jquery/eff_toggle.asp
 
 http://csscheckbox.com
+
+
+https://stackoverflow.com/questions/10462544/how-can-i-toggle-between-2-images
+https://codepen.io/htmlcolorcodes/pen/xwKaNj
+
+- github ssh mode settings
+1) generating ssh key on computer
+ssh-keygen -t RSA -C "koneits@outlook.com"
+2) go to location, and copy that ssh key to github
+3) change git url
+	git remote -v
+	git remote set-url origin git@github.com:StarNeit/frontend_homepage.git
+	

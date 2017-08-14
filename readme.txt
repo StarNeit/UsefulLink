@@ -230,3 +230,5 @@ ssh-keygen -t RSA -C "koneits@outlook.com"
 	git remote -v
 	git remote set-url origin git@github.com:StarNeit/frontend_homepage.git
 	
+	
+http://www.yiiframework.com/forum/index.php/topic/72484-yii2-user-grid-filter-by-role/

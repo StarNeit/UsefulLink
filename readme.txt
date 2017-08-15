@@ -232,3 +232,4 @@ ssh-keygen -t RSA -C "koneits@outlook.com"
 	
 	
 http://www.yiiframework.com/forum/index.php/topic/72484-yii2-user-grid-filter-by-role/
+http://jsfiddle.net/fnG3d/

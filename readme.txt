@@ -234,3 +234,4 @@ ssh-keygen -t RSA -C "koneits@outlook.com"
 http://www.yiiframework.com/forum/index.php/topic/72484-yii2-user-grid-filter-by-role/
 http://jsfiddle.net/fnG3d/
 https://stackoverflow.com/questions/10950538/how-to-detect-line-breaks-in-a-text-area-input
+http://api.jquery.com/insertafter/

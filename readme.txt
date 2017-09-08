@@ -235,3 +235,7 @@ http://www.yiiframework.com/forum/index.php/topic/72484-yii2-user-grid-filter-by
 http://jsfiddle.net/fnG3d/
 https://stackoverflow.com/questions/10950538/how-to-detect-line-breaks-in-a-text-area-input
 http://api.jquery.com/insertafter/
+
+- pulling down all branches from remote
+git fetch && git checkout `branch_name`
+ex: git fetch && git checkout develop-search-results

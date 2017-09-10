@@ -242,3 +242,5 @@ ex: git fetch && git checkout develop-search-results
 
 
 Please flow git-flow method.. https://danielkummer.github.io/git-flow-cheatsheet/
+
+We use BREW package manager for MacOS - https://brew.sh/

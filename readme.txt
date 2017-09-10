@@ -239,3 +239,6 @@ http://api.jquery.com/insertafter/
 - pulling down all branches from remote
 git fetch && git checkout `branch_name`
 ex: git fetch && git checkout develop-search-results
+
+
+Please flow git-flow method.. https://danielkummer.github.io/git-flow-cheatsheet/

@@ -253,3 +253,6 @@ https://css-tricks.com/what-is-a-headless-cms/
 
 - email template building service sites.
 http://litmus.com/
+
+- edit font on hubspot
+https://knowledge.hubspot.com/articles/kcs_article/cos-general/how-do-i-add-google-fonts-to-my-new-landing-pages

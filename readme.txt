@@ -256,3 +256,6 @@ http://litmus.com/
 
 - edit font on hubspot
 https://knowledge.hubspot.com/articles/kcs_article/cos-general/how-do-i-add-google-fonts-to-my-new-landing-pages
+
+- Meteor-React Login
+http://www.mrscottmcallister.com/custom-authentication-in-meteor/

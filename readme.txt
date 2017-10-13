@@ -259,3 +259,6 @@ https://knowledge.hubspot.com/articles/kcs_article/cos-general/how-do-i-add-goog
 
 - Meteor-React Login
 http://www.mrscottmcallister.com/custom-authentication-in-meteor/
+
+https://www.tipsforchina.com/how-to-tunnel-expressvpn-over-shadowsocks-for-increased-speed-from-china.html
+https://www.tipsforchina.com/how-to-setup-a-fast-shadowsocks-server-on-vultr-vps-the-easy-way.html

@@ -262,3 +262,5 @@ http://www.mrscottmcallister.com/custom-authentication-in-meteor/
 
 https://www.tipsforchina.com/how-to-tunnel-expressvpn-over-shadowsocks-for-increased-speed-from-china.html
 https://www.tipsforchina.com/how-to-setup-a-fast-shadowsocks-server-on-vultr-vps-the-easy-way.html
+
+https://medium.com/@clrksanford/persist-ence-is-key-using-redux-persist-to-store-your-state-in-localstorage-ac6a000aee63

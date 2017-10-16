@@ -264,3 +264,8 @@ https://www.tipsforchina.com/how-to-tunnel-expressvpn-over-shadowsocks-for-incre
 https://www.tipsforchina.com/how-to-setup-a-fast-shadowsocks-server-on-vultr-vps-the-easy-way.html
 
 https://medium.com/@clrksanford/persist-ence-is-key-using-redux-persist-to-store-your-state-in-localstorage-ac6a000aee63
+
+
+https://stackoverflow.com/questions/12569712/meteor-calling-an-asynchronous-function-inside-a-meteor-method-and-returning-th
+https://gist.github.com/joscha/4130605
+https://www.npmjs.com/package/fibers

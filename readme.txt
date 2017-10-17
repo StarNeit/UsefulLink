@@ -270,4 +270,5 @@ https://stackoverflow.com/questions/12569712/meteor-calling-an-asynchronous-func
 https://gist.github.com/joscha/4130605
 https://www.npmjs.com/package/fibers
 
+- fake credit card
 https://www.datatrans.ch/showcase/test-cc-numbers

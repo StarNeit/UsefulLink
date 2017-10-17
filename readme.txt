@@ -269,3 +269,5 @@ https://medium.com/@clrksanford/persist-ence-is-key-using-redux-persist-to-store
 https://stackoverflow.com/questions/12569712/meteor-calling-an-asynchronous-function-inside-a-meteor-method-and-returning-th
 https://gist.github.com/joscha/4130605
 https://www.npmjs.com/package/fibers
+
+https://www.datatrans.ch/showcase/test-cc-numbers

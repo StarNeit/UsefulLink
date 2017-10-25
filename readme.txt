@@ -275,3 +275,6 @@ https://www.datatrans.ch/showcase/test-cc-numbers
 
 - send data to event react
 https://stackoverflow.com/questions/34350988/react-passing-parameter-via-onclick-event-using-es6-syntax
+
+- Javascript Design Patterns
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/

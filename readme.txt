@@ -278,3 +278,6 @@ https://stackoverflow.com/questions/34350988/react-passing-parameter-via-onclick
 
 - Javascript Design Patterns
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+- good for services
+https://www.incomediary.com/

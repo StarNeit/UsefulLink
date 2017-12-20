@@ -294,3 +294,5 @@ https://mediatemple.net/community/products/developer/204405534/install-nginx-on-
 
 - jenkins
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04
+
+test jenkinis

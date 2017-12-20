@@ -291,3 +291,6 @@ https://github.com/OmniLayer/omniwallet/wiki/Exporting-a-private-key-from-Bitcoi
 
 - nginx server install/configuration on ubunt
 https://mediatemple.net/community/products/developer/204405534/install-nginx-on-ubuntu
+
+- jenkins
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04

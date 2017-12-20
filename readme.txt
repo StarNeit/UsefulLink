@@ -287,3 +287,6 @@ http://getbem.com/naming/
 
 
 https://github.com/OmniLayer/omniwallet/wiki/Exporting-a-private-key-from-Bitcoin-Qt---Bitcoin-Core-and-importing-to-Omniwallet.org
+
+
+- nginx server install/configuration on ubunt

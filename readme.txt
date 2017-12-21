@@ -295,3 +295,6 @@ https://mediatemple.net/community/products/developer/204405534/install-nginx-on-
 - jenkins
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04
 jenkins test
+
+- .idea folder and git ignore
+https://stackoverflow.com/questions/11124053/accidentally-committed-idea-directory-files-into-git

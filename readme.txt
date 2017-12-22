@@ -300,3 +300,6 @@ https://stackoverflow.com/questions/11124053/accidentally-committed-idea-directo
 
 - Redux helpful tool
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+
+- email validatioin simple javascript code (regex)
+https://stackoverflow.com/questions/41348459/regex-in-react-email-validation

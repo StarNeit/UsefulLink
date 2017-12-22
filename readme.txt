@@ -297,3 +297,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubunt
 
 - .idea folder and git ignore
 https://stackoverflow.com/questions/11124053/accidentally-committed-idea-directory-files-into-git
+
+- Redux helpful tool
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en

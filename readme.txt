@@ -306,3 +306,8 @@ https://stackoverflow.com/questions/41348459/regex-in-react-email-validation
 
 - good mobile responsive website builder
 https://mobirise.com/
+
+
+- blockchain E-Book
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain
+https://www.packtpub.com/big-data-and-business-intelligence/building-blockchain-projects

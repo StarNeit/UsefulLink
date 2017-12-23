@@ -303,3 +303,6 @@ https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfk
 
 - email validatioin simple javascript code (regex)
 https://stackoverflow.com/questions/41348459/regex-in-react-email-validation
+
+- good mobile responsive website builder
+https://mobirise.com/

@@ -311,3 +311,5 @@ https://mobirise.com/
 - blockchain E-Book
 https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain
 https://www.packtpub.com/big-data-and-business-intelligence/building-blockchain-projects
+
+https://stackoverflow.com/questions/36075460/make-pm2-log-to-console

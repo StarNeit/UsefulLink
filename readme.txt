@@ -316,3 +316,5 @@ https://stackoverflow.com/questions/36075460/make-pm2-log-to-console
 
 
 https://serverfault.com/questions/405647/how-to-see-incoming-ips-in-linux
+
+https://stackoverflow.com/questions/43055600/app-get-is-there-any-difference-between-res-send-vs-return-res-send

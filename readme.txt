@@ -327,3 +327,7 @@ https://stackoverflow.com/questions/43055600/app-get-is-there-any-difference-bet
 
 - How to copy directory,files into destination in linux/mac terminal
 cp -a .git /Volumes/Works/BlockChain/CodeX/Works/CodexMain
+
+
+- Automatical Log out
+https://stackoverflow.com/questions/38143993/session-auto-logout-after-inactivity

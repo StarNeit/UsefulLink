@@ -324,3 +324,6 @@ https://stackoverflow.com/questions/43055600/app-get-is-there-any-difference-bet
 1) git reflog
 2) git reset HEAD@{65}
 3) git reset --hard HEAD
+
+- How to copy directory,files into destination in linux/mac terminal
+cp -a .git /Volumes/Works/BlockChain/CodeX/Works/CodexMain

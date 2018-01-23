@@ -331,3 +331,6 @@ cp -a .git /Volumes/Works/BlockChain/CodeX/Works/CodexMain
 
 - Automatical Log out
 https://stackoverflow.com/questions/38143993/session-auto-logout-after-inactivity
+
+- kill port on ubunt
+https://stackoverflow.com/questions/9346211/how-to-kill-a-process-on-a-port-on-ubuntu

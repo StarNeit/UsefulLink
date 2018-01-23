@@ -334,3 +334,6 @@ https://stackoverflow.com/questions/38143993/session-auto-logout-after-inactivit
 
 - kill port on ubunt
 https://stackoverflow.com/questions/9346211/how-to-kill-a-process-on-a-port-on-ubuntu
+
+- convert time to AM , PM
+https://stackoverflow.com/questions/8888491/how-do-you-display-javascript-datetime-in-12-hour-am-pm-format

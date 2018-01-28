@@ -342,3 +342,6 @@ https://stackoverflow.com/questions/8888491/how-do-you-display-javascript-dateti
 - Infura
 http://truffleframework.com/tutorials/using-infura-custom-provider
 https://github.com/trufflesuite/truffle-hdwallet-provider
+
+- remove geth synced cache
+https://ethereum.stackexchange.com/questions/1897/how-to-delete-or-reset-the-blockchain-in-geth-osx

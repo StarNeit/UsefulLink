@@ -337,3 +337,8 @@ https://stackoverflow.com/questions/9346211/how-to-kill-a-process-on-a-port-on-u
 
 - convert time to AM , PM
 https://stackoverflow.com/questions/8888491/how-do-you-display-javascript-datetime-in-12-hour-am-pm-format
+
+
+- Infura
+http://truffleframework.com/tutorials/using-infura-custom-provider
+https://github.com/trufflesuite/truffle-hdwallet-provider

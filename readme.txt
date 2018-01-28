@@ -345,3 +345,9 @@ https://github.com/trufflesuite/truffle-hdwallet-provider
 
 - remove geth synced cache
 https://ethereum.stackexchange.com/questions/1897/how-to-delete-or-reset-the-blockchain-in-geth-osx
+
+- Testing in ropsten network (in infura) with truffle.js
+https://github.com/trufflesuite/trufflesuite.github.io/issues/165
+
+>https://yohanes.gultom.me/configure-truffle-to-use-infura-io-and-existing-private-key/
+>https://yohanes.gultom.me/node-js-smart-contract-integration-truffle-contract-infura/

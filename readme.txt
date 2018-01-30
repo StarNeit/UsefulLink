@@ -353,3 +353,6 @@ https://github.com/trufflesuite/trufflesuite.github.io/issues/165
 >https://yohanes.gultom.me/node-js-smart-contract-integration-truffle-contract-infura/
 
 https://ethereum.stackexchange.com/questions/16912/is-it-possible-to-create-an-address-using-ethereumjs-without-a-geth-node
+
+- lodash debounce
+https://www.npmjs.com/package/lodash.debounce

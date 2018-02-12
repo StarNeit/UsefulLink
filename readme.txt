@@ -356,3 +356,6 @@ https://ethereum.stackexchange.com/questions/16912/is-it-possible-to-create-an-a
 
 - lodash debounce
 https://www.npmjs.com/package/lodash.debounce
+
+- Detect click outside React component
+https://stackoverflow.com/questions/32553158/detect-click-outside-react-component

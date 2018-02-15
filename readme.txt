@@ -359,3 +359,6 @@ https://www.npmjs.com/package/lodash.debounce
 
 - Detect click outside React component
 https://stackoverflow.com/questions/32553158/detect-click-outside-react-component
+
+- CSS gradient
+http://www.colorzilla.com/gradient-editor/

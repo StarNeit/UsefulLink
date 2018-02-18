@@ -362,3 +362,7 @@ https://stackoverflow.com/questions/32553158/detect-click-outside-react-componen
 
 - CSS gradient
 http://www.colorzilla.com/gradient-editor/
+
+
+- analytic sites
+http://www.hypestat.com/

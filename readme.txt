@@ -366,3 +366,6 @@ http://www.colorzilla.com/gradient-editor/
 
 - analytic sites
 http://www.hypestat.com/
+
+- how to show hidden files on mac
+https://stackoverflow.com/questions/45878108/why-my-laravel-project-doesnt-show-env-file-on-mac

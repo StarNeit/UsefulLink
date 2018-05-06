@@ -369,3 +369,7 @@ http://www.hypestat.com/
 
 - how to show hidden files on mac
 https://stackoverflow.com/questions/45878108/why-my-laravel-project-doesnt-show-env-file-on-mac
+
+- blockchain
+https://objectcomputing.com/resources/publications/sett/february-2018-eos-smart-contracts
+https://www.youtube.com/channel/UC_0j3NAYVBiyY152K0f-2og

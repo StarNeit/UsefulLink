@@ -373,3 +373,6 @@ https://stackoverflow.com/questions/45878108/why-my-laravel-project-doesnt-show-
 - blockchain
 https://objectcomputing.com/resources/publications/sett/february-2018-eos-smart-contracts
 https://www.youtube.com/channel/UC_0j3NAYVBiyY152K0f-2og
+
+- how to make ubuntu bootable memory on Mac
+https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#6

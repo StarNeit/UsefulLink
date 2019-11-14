@@ -377,6 +377,7 @@ https://www.youtube.com/channel/UC_0j3NAYVBiyY152K0f-2og
 - how to make ubuntu bootable memory on Mac
 https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#6
 ZTExMmRmMzYtY2M2My00MmRhLThkMjQtODNlYjY3ODBlNDZk
+pavel.krinenko
 
 - Nginx on Ubuntu 16.04 (xenial)
 https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx

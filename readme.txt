@@ -377,7 +377,7 @@ https://www.youtube.com/channel/UC_0j3NAYVBiyY152K0f-2og
 - how to make ubuntu bootable memory on Mac
 https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#6
 ZTExMmRmMzYtY2M2My00MmRhLThkMjQtODNlYjY3ODBlNDZk
-pavel.krinenko
+cGF2ZWwua3JpbmVua28=
 
 - Nginx on Ubuntu 16.04 (xenial)
 https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx
@@ -387,3 +387,17 @@ sudo apt-get install software-properties-common
 sudo add-apt-repository universe
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt-get update
+
+- Node mailer
+https://nodemailer.com/about/
+https://community.nodemailer.com/
+https://github.com/nodemailer/nodemailer
+https://www.w3schools.com/nodejs/nodejs_email.asp
+http://adilapapaya.com/docs/nodemailer/
+
+- React Router
+https://reacttraining.com/react-router/web/guides/quick-start
+https://reacttraining.com/react-router/core/guides/philosophy
+https://github.com/ReactTraining/react-router
+https://www.npmjs.com/package/react-router
+https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf

@@ -222,6 +222,9 @@ http://csscheckbox.com
 https://stackoverflow.com/questions/10462544/how-can-i-toggle-between-2-images
 https://codepen.io/htmlcolorcodes/pen/xwKaNj
 
+- Make all wildcard DNS record connect to main one source application for subdomain registration
+https://michaelborn.me/entry/installing-a-wildcard-ssl-with-certbot
+
 - github ssh mode settings
 1) generating ssh key on computer
 ssh-keygen -t RSA -C "koneits@outlook.com"
@@ -377,7 +380,6 @@ https://www.youtube.com/channel/UC_0j3NAYVBiyY152K0f-2og
 - how to make ubuntu bootable memory on Mac
 https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#6
 ZTExMmRmMzYtY2M2My00MmRhLThkMjQtODNlYjY3ODBlNDZk
-cGF2ZWwua3JpbmVua28=
 
 - Nginx on Ubuntu 16.04 (xenial)
 https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx
@@ -401,3 +403,7 @@ https://reacttraining.com/react-router/core/guides/philosophy
 https://github.com/ReactTraining/react-router
 https://www.npmjs.com/package/react-router
 https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+
+- Cloud Functions for Firebase, sending e-mail
+https://firebase.google.com/docs/auth/admin/email-action-links
+https://medium.com/@edigleyssonsilva/cloud-functions-for-firebase-sending-e-mail-1f2631d1022e

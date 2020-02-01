@@ -310,6 +310,12 @@ https://stackoverflow.com/questions/41348459/regex-in-react-email-validation
 - good mobile responsive website builder
 https://mobirise.com/
 
+- Django & Salesforce integration
+https://boomi.com/platform/integration/applications/salesforce/
+https://sesamesoftware.com/solutions/data-integration-for-salesforce/
+https://www.lytblue.com/services/services
+https://pypi.org/project/django-salesforce/
+
 
 - blockchain E-Book
 https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain
@@ -378,8 +384,7 @@ https://objectcomputing.com/resources/publications/sett/february-2018-eos-smart-
 https://www.youtube.com/channel/UC_0j3NAYVBiyY152K0f-2og
 
 - how to make ubuntu bootable memory on Mac
-https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#6
-ZTExMmRmMzYtY2M2My00MmRhLThkMjQtODNlYjY3ODBlNDZk
+https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#ZTExMmRmMzYtY2M2My00MmRhLThkMjQtODNlYjY3ODBlNDZk
 
 - Nginx on Ubuntu 16.04 (xenial)
 https://certbot.eff.org/lets-encrypt/ubuntuxenial-nginx
@@ -407,3 +412,9 @@ https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
 - Cloud Functions for Firebase, sending e-mail
 https://firebase.google.com/docs/auth/admin/email-action-links
 https://medium.com/@edigleyssonsilva/cloud-functions-for-firebase-sending-e-mail-1f2631d1022e
+
+- Godaddy API Reseller
+https://developer.godaddy.com/
+https://hk.godaddy.com/en/help/what-is-an-api-reseller-plan-5939
+https://hk.godaddy.com/en/help/api-reseller-1000009
+https://github.com/achinwo/godaddy-reseller-api

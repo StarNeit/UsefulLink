@@ -422,3 +422,7 @@ https://github.com/achinwo/godaddy-reseller-api
 
 - OpenVPN
 https://medium.com/@gurayy/set-up-a-vpn-server-with-docker-in-5-minutes-a66184882c45
+
+- How to scrap files
+https://stackoverflow.com/questions/23446635/how-to-download-http-directory-with-all-files-and-sub-directories-as-they-appear
+https://mkyong.com/mac/wget-on-mac-os-x/

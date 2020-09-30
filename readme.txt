@@ -429,3 +429,6 @@ https://mkyong.com/mac/wget-on-mac-os-x/
 
 - add new app to PATH
 https://stackoverflow.com/questions/10767738/how-do-i-add-bin-to-my-path
+
+- hackintosh
+https://community.hackintoshshop.com/files/
